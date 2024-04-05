@@ -1,0 +1,1 @@
+# KDXF-studypad-C10
