@@ -19,7 +19,7 @@
 
 ## 准备工具
 
-* 平板充满电且能打开编程空间应用，如果没有编程空间，则不可以使用本方案，请使用洋葱学院替换法，去酷安，B站和GitHub搜“科大讯飞AI学习机”即可找到教程，或者看这个：https://github.com/Yixiyixi666/KDXF-studypad-C10/blob/main/README.md
+* 平板充满电且能打开编程空间应用，如果没有编程空间，则不可以使用本方案，请使用洋葱学院替换法，去酷安，B站和GitHub搜“科大讯飞AI学习机”即可找到教程，或者看这个：https://github.com/KDXF-BOOM/studentpad-research
 
 * 一台能连WIFI的电脑，灵活的双手和会用搜索引擎的大脑
 
