@@ -96,6 +96,8 @@ Success
 ### 第三方桌面
 
 安装Lawnchair，在多任务页面长按Lawnchair的图标，点击右边的圆圈内感叹号图标，将其设置为默认主屏幕应用
+!![desktop](https://github.com/Yixiyixi666/KDXF-studypad-C10/assets/143389488/d4e998b2-f227-47b6-81d9-c0d5227266d6)
+
 
 ### 第三方输入法
 
