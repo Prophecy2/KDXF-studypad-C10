@@ -119,10 +119,10 @@ setprop ctl.restart adbd
 ### 解除部分网址访问限制
 
 为解除限制，请进行如下操作，重启后需要重新操作
-!(/net/1.jpg)
-!(/net/2.jpg)
-!(/net/3.jpg)
-!(/net/4.jpg)
-!(/net/5.jpg)
-!(/net/6.jpg)
-!(/net/7.jpg)
+![1](/net/1.jpg)
+![2](/net/2.jpg)
+![3](/net/3.jpg)
+![4](/net/4.jpg)
+![5](/net/5.jpg)
+![6](/net/6.jpg)
+![7](/net/7.jpg)
