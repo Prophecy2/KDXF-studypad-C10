@@ -116,15 +116,13 @@ setprop ctl.restart adbd
 
 注意，讯飞输入法更新后，重启会自动卸载，推荐使用百度输入法
 
-### 第三方浏览器
+### 解除部分网址访问限制
 
-注意，随便下载一个浏览器，发现很多网页无法访问时，我们需要配置安全DNS，以绕过系统webview对部分网址的拦截。
-![dns](/pic/dns.png)
-以opera浏览器为例，点击右下角账户图标，点击右上角设置，隐私和安全，DNS提供商，自定义，输入一个DNS提供商比如这个阿里云安全DNS
-
-```
-
-https://dns.alidns.com/dns-query?
-
-```
-
+为解除限制，请进行如下操作，重启后需要重新操作
+!(/net/1.jpg)
+!(/net/2.jpg)
+!(/net/3.jpg)
+!(/net/4.jpg)
+!(/net/5.jpg)
+!(/net/6.jpg)
+!(/net/7.jpg)
